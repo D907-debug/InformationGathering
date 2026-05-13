@@ -60,36 +60,43 @@ Host: example.com
 
 
 
+<img width="1075" height="848" alt="image" src="https://github.com/user-attachments/assets/3ff8e75a-402e-4cf4-bd32-1f5424e0b8a3" />
 
 ## nmap:
 ###output
+<img width="645" height="254" alt="image" src="https://github.com/user-attachments/assets/2b896485-4072-4cef-946c-f58071307fd9" />
 
 
 ## Whatweb
 ### output
 
+<img width="1063" height="667" alt="image" src="https://github.com/user-attachments/assets/56e79833-2113-45f0-8e0a-90230af4808c" />
 
 ## httprint
 ### output
 
 
 
+<img width="725" height="693" alt="image" src="https://github.com/user-attachments/assets/b7afcefb-af41-44bd-a585-7347fff051ae" />
 
 # Tracing the Location
 TCP Traceroute:
 sudo traceroute -T www.google.com
 ## output
+<img width="621" height="89" alt="image" src="https://github.com/user-attachments/assets/f21ed018-6fa5-43b7-9592-0a393615c7bd" />
 
 
 ## UDP Traceroute:
 sudo traceroute -U www.google.com
 ## output
+<img width="615" height="108" alt="image" src="https://github.com/user-attachments/assets/b8d7eed3-bca9-4521-8a65-655464fc2cee" />
 
 
 
 ## ICMP Traceroute:
 sudo traceroute  www.google.com
 ## output
+<img width="641" height="104" alt="image" src="https://github.com/user-attachments/assets/b538b140-3787-4574-81bc-3c5c286187f7" />
 
 
 
